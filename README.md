@@ -9,6 +9,7 @@ PHP PDO Mysql Extension
 MySql 5.1+
 
 Setup:
+
 1) Download and extract directory structure as-is.
 
 2) Install database by running /db/shipwire.sql.

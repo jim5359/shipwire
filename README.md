@@ -18,7 +18,6 @@ Setup:
 3) Run "php shipwire.php" from the command line.
 
 Please send any questions to:
-
 Jim Reed
 jobs@aconsulting.com
 

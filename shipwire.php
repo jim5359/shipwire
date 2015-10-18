@@ -1,5 +1,5 @@
 <?php
-require_once 'lib\Shipwire\Bootstrap.php';
+require_once 'lib/Shipwire/Bootstrap.php';
 use Shipwire\Prompts;
 
 $done = false;

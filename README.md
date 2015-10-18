@@ -3,9 +3,13 @@
 Written by James Reed
 
 Pre-Requisites:
+
 PHP 5.3+
+
 PHP MySql Extension
+
 PHP PDO Mysql Extension
+
 MySql 5.1+
 
 Setup:

@@ -13,11 +13,14 @@ Setup:
 1) Download and extract directory structure as-is.
 
 2) Install database by running /db/shipwire.sql.
-    a) This creates the database, a shipwire user, and the required tables.
+
+     a) This creates the database, a shipwire user, and the required tables.
     
 3) Run "php shipwire.php" from the command line.
 
 Please send any questions to:
+
 Jim Reed
+
 jobs@aconsulting.com
 
